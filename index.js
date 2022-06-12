@@ -844,7 +844,7 @@ if (!m.isGroup) return reply(lang.groupOnly())
           },
           {
             "urlButton": {
-              "displayText": "Rest Api's",              
+              "displayText": "Instagram",              
               "url": `${myweb}`
 
             }
